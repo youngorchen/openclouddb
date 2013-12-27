@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/openclouddb/!svn/ver/112/trunk/src/main/resources
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/openclouddb/!svn/ver/97/trunk/src/main/resources/server.xml
+END
+rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/openclouddb/!svn/ver/67/trunk/src/main/resources/rule.xml
+END
+schema.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/openclouddb/!svn/ver/69/trunk/src/main/resources/schema.dtd
+END
+autopartition-long.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/openclouddb/!svn/ver/34/trunk/src/main/resources/autopartition-long.txt
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/openclouddb/!svn/ver/112/trunk/src/main/resources/log4j.xml
+END
+router.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/openclouddb/!svn/ver/2/trunk/src/main/resources/router.xml
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/openclouddb/!svn/ver/106/trunk/src/main/resources/schema.xml
+END
+partition-hash-int.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/openclouddb/!svn/ver/34/trunk/src/main/resources/partition-hash-int.txt
+END
+server.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/openclouddb/!svn/ver/2/trunk/src/main/resources/server.dtd
+END
+rule.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/openclouddb/!svn/ver/2/trunk/src/main/resources/rule.dtd
+END

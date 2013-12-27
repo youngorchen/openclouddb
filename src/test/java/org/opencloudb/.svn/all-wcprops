@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/openclouddb/!svn/ver/112/trunk/src/test/java/org/opencloudb
+END
+ConfigInitializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/ConfigInitializerTest.java
+END
+EchoBioServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/EchoBioServer.java
+END
+VolatileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/VolatileTest.java
+END
+BufferPerformanceMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/BufferPerformanceMain.java
+END
+ExecutorTestMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/ExecutorTestMain.java
+END

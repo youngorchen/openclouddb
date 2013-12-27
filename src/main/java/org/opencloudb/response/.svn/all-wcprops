@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/openclouddb/!svn/ver/108/trunk/src/main/java/org/opencloudb/response
+END
+SwitchDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/response/SwitchDataSource.java
+END
+ShowConnectionSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowConnectionSQL.java
+END
+ShowDataNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/response/ShowDataNode.java
+END
+SelectSessionAutoIncrement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/SelectSessionAutoIncrement.java
+END
+Offline.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/Offline.java
+END
+ShowCollation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowCollation.java
+END
+ShowVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowVersion.java
+END
+RollbackUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/RollbackUser.java
+END
+ClearSlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/response/ClearSlow.java
+END
+ShowTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowTime.java
+END
+ShowSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowSQL.java
+END
+ShowHeartbeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/response/ShowHeartbeat.java
+END
+ShowDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowDatabase.java
+END
+ReloadUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ReloadUser.java
+END
+ShowSQLSlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowSQLSlow.java
+END
+StopHeartbeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/response/StopHeartbeat.java
+END
+ShowServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowServer.java
+END
+SelectVersionComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/SelectVersionComment.java
+END
+ShowVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowVariables.java
+END
+KillConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/KillConnection.java
+END
+RollbackConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/response/RollbackConfig.java
+END
+ShowCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowCommand.java
+END
+ShowProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowProcessor.java
+END
+ShowRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowRouter.java
+END
+ShowSQLExecute.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowSQLExecute.java
+END
+ShowSQLDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowSQLDetail.java
+END
+Online.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/Online.java
+END
+ShowBackend.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/response/ShowBackend.java
+END
+ShowHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowHelp.java
+END
+ShowDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/response/ShowDataSource.java
+END
+ReloadConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/response/ReloadConfig.java
+END
+ShowParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowParser.java
+END
+ShowConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/response/ShowConnection.java
+END
+ShowThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/108/trunk/src/main/java/org/opencloudb/response/ShowThreadPool.java
+END

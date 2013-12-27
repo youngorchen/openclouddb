@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/openclouddb/!svn/ver/112/trunk/src/test/java/org/opencloudb/performance
+END
+TestInsertPerf.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/91/trunk/src/test/java/org/opencloudb/performance/TestInsertPerf.java
+END
+TestGlobalTableInsertPerf.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openclouddb/!svn/ver/112/trunk/src/test/java/org/opencloudb/performance/TestGlobalTableInsertPerf.java
+END
+TestSelectPerf.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/92/trunk/src/test/java/org/opencloudb/performance/TestSelectPerf.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/net/mysql
+END
+CommandPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/net/mysql/CommandPacket.java
+END
+QuitPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/QuitPacket.java
+END
+Reply323Packet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/Reply323Packet.java
+END
+FieldPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/FieldPacket.java
+END
+BinaryPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/BinaryPacket.java
+END
+HandshakePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/HandshakePacket.java
+END
+ErrorPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/ErrorPacket.java
+END
+PreparedOkPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/PreparedOkPacket.java
+END
+PingPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/PingPacket.java
+END
+HeartbeatPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/HeartbeatPacket.java
+END
+AuthPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/AuthPacket.java
+END
+RowDataPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/RowDataPacket.java
+END
+ExecutePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/ExecutePacket.java
+END
+ResultSetHeaderPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/ResultSetHeaderPacket.java
+END
+MySQLPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/MySQLPacket.java
+END
+OkPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/OkPacket.java
+END
+EOFPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/mysql/EOFPacket.java
+END

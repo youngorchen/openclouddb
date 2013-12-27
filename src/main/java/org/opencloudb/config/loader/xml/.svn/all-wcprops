@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/56/trunk/src/main/java/org/opencloudb/config/loader/xml
+END
+XMLRuleLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/loader/xml/XMLRuleLoader.java
+END
+XMLSchemaLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/56/trunk/src/main/java/org/opencloudb/config/loader/xml/XMLSchemaLoader.java
+END
+XMLConfigLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/config/loader/xml/XMLConfigLoader.java
+END
+XMLServerLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/loader/xml/XMLServerLoader.java
+END

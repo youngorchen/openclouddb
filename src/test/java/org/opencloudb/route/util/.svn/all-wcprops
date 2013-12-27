@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/route/util
+END
+PartitionForSingle.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/route/util/PartitionForSingle.java
+END
+PartitionUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/route/util/PartitionUtilTest.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/openclouddb/!svn/ver/112/trunk/src/main/java/org/opencloudb
+END
+MycatCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/MycatCluster.java
+END
+MycatStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/MycatStartup.java
+END
+MycatConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/MycatConfig.java
+END
+MycatNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/MycatNode.java
+END
+Log4jInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/Log4jInitializer.java
+END
+MycatServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/108/trunk/src/main/java/org/opencloudb/MycatServer.java
+END
+MycatPrivileges.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/MycatPrivileges.java
+END
+ConfigInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/69/trunk/src/main/java/org/opencloudb/ConfigInitializer.java
+END
+MycatShutdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/MycatShutdown.java
+END

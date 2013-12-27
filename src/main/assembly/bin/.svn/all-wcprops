@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/openclouddb/!svn/ver/85/trunk/src/main/assembly/bin
+END
+startup_nowrap.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/openclouddb/!svn/ver/85/trunk/src/main/assembly/bin/startup_nowrap.bat
+END
+test_stand_insert_perf.bat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/85/trunk/src/main/assembly/bin/test_stand_insert_perf.bat
+END
+startup_nowrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/openclouddb/!svn/ver/85/trunk/src/main/assembly/bin/startup_nowrap.sh
+END
+test_stand_select_perf.bat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/85/trunk/src/main/assembly/bin/test_stand_select_perf.bat
+END

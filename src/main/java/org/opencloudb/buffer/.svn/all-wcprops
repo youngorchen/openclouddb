@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/openclouddb/!svn/ver/100/trunk/src/main/java/org/opencloudb/buffer
+END
+BufferQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/100/trunk/src/main/java/org/opencloudb/buffer/BufferQueue.java
+END
+BufferPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/21/trunk/src/main/java/org/opencloudb/buffer/BufferPool.java
+END

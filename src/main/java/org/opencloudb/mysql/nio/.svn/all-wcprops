@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/openclouddb/!svn/ver/104/trunk/src/main/java/org/opencloudb/mysql/nio
+END
+MySQLConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/69/trunk/src/main/java/org/opencloudb/mysql/nio/MySQLConnectionFactory.java
+END
+MySQLConnectionAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openclouddb/!svn/ver/104/trunk/src/main/java/org/opencloudb/mysql/nio/MySQLConnectionAuthenticator.java
+END
+MySQLDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/mysql/nio/MySQLDataSource.java
+END
+MySQLConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/95/trunk/src/main/java/org/opencloudb/mysql/nio/MySQLConnectionHandler.java
+END
+MySQLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/104/trunk/src/main/java/org/opencloudb/mysql/nio/MySQLConnection.java
+END

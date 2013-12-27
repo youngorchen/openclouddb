@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util
+END
+ConfigUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/ConfigUtil.java
+END
+ConfigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/ConfigException.java
+END
+ReflectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/ReflectionProvider.java
+END
+ObjectAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/ObjectAccessException.java
+END
+JVMInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/JVMInfo.java
+END
+FieldDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/FieldDictionary.java
+END
+OrderRetainingMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/OrderRetainingMap.java
+END
+BeanConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/BeanConfig.java
+END
+ParameterMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/ParameterMapping.java
+END
+Visitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/Visitor.java
+END
+Initializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/util/Initializable.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/cache
+END
+MysqlDataSetService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/cache/MysqlDataSetService.java
+END
+MysqlDataSetCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/cache/MysqlDataSetCache.java
+END

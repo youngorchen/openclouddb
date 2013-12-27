@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types
+END
+SynonymAliasInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types/SynonymAliasInfo.java
+END
+UDTAliasInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types/UDTAliasInfo.java
+END
+ValueClassName.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types/ValueClassName.java
+END
+AliasInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types/AliasInfo.java
+END
+CharacterTypeAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types/CharacterTypeAttributes.java
+END
+MethodAliasInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types/MethodAliasInfo.java
+END
+DataTypeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types/DataTypeDescriptor.java
+END
+JSQLType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types/JSQLType.java
+END
+RoutineAliasInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types/RoutineAliasInfo.java
+END
+TypeId.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/types/TypeId.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/openclouddb/!svn/ver/102/trunk/src/main/java/org/opencloudb/backend
+END
+PhysicalConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/69/trunk/src/main/java/org/opencloudb/backend/PhysicalConnection.java
+END
+PhysicalDBPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/102/trunk/src/main/java/org/opencloudb/backend/PhysicalDBPool.java
+END
+PhysicalDatasource.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/69/trunk/src/main/java/org/opencloudb/backend/PhysicalDatasource.java
+END
+PhysicalDBNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/69/trunk/src/main/java/org/opencloudb/backend/PhysicalDBNode.java
+END

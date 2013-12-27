@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/openclouddb/!svn/ver/69/trunk/src/test/java/org/opencloudb/parser
+END
+ManagerParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/parser/ManagerParserTest.java
+END
+MergeSQLParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/69/trunk/src/test/java/org/opencloudb/parser/MergeSQLParserTest.java
+END
+TestSelectSQLAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/parser/TestSelectSQLAnalyser.java
+END
+ServerParserTestPerf.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/parser/ServerParserTestPerf.java
+END
+Performance.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/parser/Performance.java
+END
+TestDeleteSQLAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/parser/TestDeleteSQLAnalyser.java
+END
+TestUpdateSQLAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/parser/TestUpdateSQLAnalyser.java
+END
+TestDDLSQLAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/56/trunk/src/test/java/org/opencloudb/parser/TestDDLSQLAnalyser.java
+END
+ServerParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/56/trunk/src/test/java/org/opencloudb/parser/ServerParserTest.java
+END
+TestInsertSQLAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/50/trunk/src/test/java/org/opencloudb/parser/TestInsertSQLAnalyser.java
+END
+ManagerParserTestPerf.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/parser/ManagerParserTestPerf.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/exception
+END
+HeartbeatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/exception/HeartbeatException.java
+END
+UnknownDataNodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/exception/UnknownDataNodeException.java
+END
+ErrorPacketException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/exception/ErrorPacketException.java
+END
+UnknownPacketException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/exception/UnknownPacketException.java
+END
+UnknownCharsetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/exception/UnknownCharsetException.java
+END
+UnknownTxIsolationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/exception/UnknownTxIsolationException.java
+END

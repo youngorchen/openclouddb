@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/factory
+END
+FrontendConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/factory/FrontendConnectionFactory.java
+END
+BackendConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/factory/BackendConnectionFactory.java
+END

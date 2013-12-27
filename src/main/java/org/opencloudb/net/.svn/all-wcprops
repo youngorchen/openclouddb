@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/openclouddb/!svn/ver/104/trunk/src/main/java/org/opencloudb/net
+END
+AbstractConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/104/trunk/src/main/java/org/opencloudb/net/AbstractConnection.java
+END
+NIOHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/NIOHandler.java
+END
+NIOConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/18/trunk/src/main/java/org/opencloudb/net/NIOConnection.java
+END
+NIOProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/21/trunk/src/main/java/org/opencloudb/net/NIOProcessor.java
+END
+NIOReactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/100/trunk/src/main/java/org/opencloudb/net/NIOReactor.java
+END
+NIOAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/NIOAcceptor.java
+END
+BackendConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/net/BackendConnection.java
+END
+ConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/104/trunk/src/main/java/org/opencloudb/net/ConnectionException.java
+END
+FrontendConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/net/FrontendConnection.java
+END
+NIOConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/NIOConnector.java
+END

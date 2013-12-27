@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/openclouddb/!svn/ver/108/trunk/src/main/java/org/opencloudb/config/model
+END
+ClusterConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/config/model/ClusterConfig.java
+END
+DBHostConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/54/trunk/src/main/java/org/opencloudb/config/model/DBHostConfig.java
+END
+MycatNodeConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/config/model/MycatNodeConfig.java
+END
+SystemConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/108/trunk/src/main/java/org/opencloudb/config/model/SystemConfig.java
+END
+DataHostConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/54/trunk/src/main/java/org/opencloudb/config/model/DataHostConfig.java
+END
+QuarantineConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/model/QuarantineConfig.java
+END
+TableConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/model/TableConfig.java
+END
+UserConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/model/UserConfig.java
+END
+DataNodeConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/config/model/DataNodeConfig.java
+END
+SchemaConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/model/SchemaConfig.java
+END

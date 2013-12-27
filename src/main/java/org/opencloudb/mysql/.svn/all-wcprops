@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/openclouddb/!svn/ver/104/trunk/src/main/java/org/opencloudb/mysql
+END
+ByteUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/mysql/ByteUtil.java
+END
+PacketUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/mysql/PacketUtil.java
+END
+SecurityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/mysql/SecurityUtil.java
+END
+BindValueUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/mysql/BindValueUtil.java
+END
+BufferUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/mysql/BufferUtil.java
+END
+CharsetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/mysql/CharsetUtil.java
+END
+PreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/mysql/PreparedStatement.java
+END
+BindValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/mysql/BindValue.java
+END
+StreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/mysql/StreamUtil.java
+END
+MySQLMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/mysql/MySQLMessage.java
+END

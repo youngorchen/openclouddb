@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/heartbeat
+END
+HeartbeatConfigForTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/heartbeat/HeartbeatConfigForTest.java
+END
+HeartbeatStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/heartbeat/HeartbeatStartup.java
+END
+HeartbeatContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/heartbeat/HeartbeatContext.java
+END

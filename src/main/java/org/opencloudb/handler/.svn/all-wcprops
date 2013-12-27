@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/openclouddb/!svn/ver/112/trunk/src/main/java/org/opencloudb/handler
+END
+ConfFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/112/trunk/src/main/java/org/opencloudb/handler/ConfFileHandler.java
+END
+StopHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/handler/StopHandler.java
+END
+ClearHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/handler/ClearHandler.java
+END
+ReloadHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/handler/ReloadHandler.java
+END
+RollbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/handler/RollbackHandler.java
+END
+ShowServerLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/112/trunk/src/main/java/org/opencloudb/handler/ShowServerLog.java
+END
+SelectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/handler/SelectHandler.java
+END
+ShowHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/handler/ShowHandler.java
+END
+SwitchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/handler/SwitchHandler.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/openclouddb/!svn/ver/105/trunk/src/main/java/org/opencloudb/server
+END
+ServerConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openclouddb/!svn/ver/105/trunk/src/main/java/org/opencloudb/server/ServerConnectionFactory.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/Session.java
+END
+ServerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/18/trunk/src/main/java/org/opencloudb/server/ServerConnection.java
+END
+NonBlockingSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/105/trunk/src/main/java/org/opencloudb/server/NonBlockingSession.java
+END
+ServerQueryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/server/ServerQueryHandler.java
+END

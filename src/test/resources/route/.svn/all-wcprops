@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/openclouddb/!svn/ver/70/trunk/src/test/resources/route
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/openclouddb/!svn/ver/70/trunk/src/test/resources/route/schema.xml
+END
+rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/openclouddb/!svn/ver/2/trunk/src/test/resources/route/rule.xml
+END

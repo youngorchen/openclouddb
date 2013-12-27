@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/openclouddb/!svn/ver/67/trunk/src/main/java/org/opencloudb/route/function
+END
+PartionByMod.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/67/trunk/src/main/java/org/opencloudb/route/function/PartionByMod.java
+END
+PartitionByString.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/route/function/PartitionByString.java
+END
+AutoPartitionByLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openclouddb/!svn/ver/34/trunk/src/main/java/org/opencloudb/route/function/AutoPartitionByLong.java
+END
+PartitionByFileMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/route/function/PartitionByFileMap.java
+END
+PartitionByLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/route/function/PartitionByLong.java
+END

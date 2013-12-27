@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/openclouddb/!svn/ver/104/trunk/src/main/java/org/opencloudb/heartbeat
+END
+MyCATDetectorAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/heartbeat/MyCATDetectorAuthenticator.java
+END
+DBHeartbeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/69/trunk/src/main/java/org/opencloudb/heartbeat/DBHeartbeat.java
+END
+MyCATDetectorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/heartbeat/MyCATDetectorHandler.java
+END
+MySQLHeartbeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/69/trunk/src/main/java/org/opencloudb/heartbeat/MySQLHeartbeat.java
+END
+MyCATDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/heartbeat/MyCATDetector.java
+END
+MySQLDetectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/heartbeat/MySQLDetectorFactory.java
+END
+MySQLDetectorAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openclouddb/!svn/ver/104/trunk/src/main/java/org/opencloudb/heartbeat/MySQLDetectorAuthenticator.java
+END
+MyCATHeartbeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/heartbeat/MyCATHeartbeat.java
+END
+MySQLDetectorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/heartbeat/MySQLDetectorHandler.java
+END
+MyCATDetectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/heartbeat/MyCATDetectorFactory.java
+END
+MySQLDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/heartbeat/MySQLDetector.java
+END

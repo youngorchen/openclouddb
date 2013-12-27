@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/handler
+END
+FrontendPrivileges.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/handler/FrontendPrivileges.java
+END
+FrontendAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/handler/FrontendAuthenticator.java
+END
+FrontendCommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/handler/FrontendCommandHandler.java
+END
+FrontendPrepareHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/handler/FrontendPrepareHandler.java
+END
+BackendAsyncHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/handler/BackendAsyncHandler.java
+END
+FrontendQueryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/net/handler/FrontendQueryHandler.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/server/response
+END
+SelectUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/SelectUser.java
+END
+SelectVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/SelectVersion.java
+END
+ShowDatabases.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/ShowDatabases.java
+END
+SessionIncrement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/SessionIncrement.java
+END
+ShowCobarCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/server/response/ShowCobarCluster.java
+END
+SelectIdentity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/SelectIdentity.java
+END
+PreparedStmtResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/PreparedStmtResponse.java
+END
+ShowCobarStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/ShowCobarStatus.java
+END
+Ping.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/Ping.java
+END
+Heartbeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/Heartbeat.java
+END
+SelectDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/SelectDatabase.java
+END
+SessionIsolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/10/trunk/src/main/java/org/opencloudb/server/response/SessionIsolation.java
+END
+SelectLastInsertId.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/SelectLastInsertId.java
+END
+SelectVersionComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/SelectVersionComment.java
+END
+CharacterSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/response/CharacterSet.java
+END

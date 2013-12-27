@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/server/parser
+END
+ServerParseSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/parser/ServerParseSet.java
+END
+ServerParseStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/parser/ServerParseStart.java
+END
+ServerParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/53/trunk/src/main/java/org/opencloudb/server/parser/ServerParse.java
+END
+ServerParseSelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openclouddb/!svn/ver/31/trunk/src/main/java/org/opencloudb/server/parser/ServerParseSelect.java
+END
+ServerParseShow.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/server/parser/ServerParseShow.java
+END

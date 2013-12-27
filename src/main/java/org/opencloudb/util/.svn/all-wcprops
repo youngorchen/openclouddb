@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/openclouddb/!svn/ver/112/trunk/src/main/java/org/opencloudb/util
+END
+SplitUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/SplitUtil.java
+END
+CollectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/CollectionUtil.java
+END
+IntegerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/IntegerUtil.java
+END
+HexFormatUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/HexFormatUtil.java
+END
+TimeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/TimeUtil.java
+END
+ExecutorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/ExecutorUtil.java
+END
+LongUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/LongUtil.java
+END
+CircularArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/112/trunk/src/main/java/org/opencloudb/util/CircularArrayList.java
+END
+ByteUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/109/trunk/src/main/java/org/opencloudb/util/ByteUtil.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/StringUtil.java
+END
+ObjectUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/ObjectUtil.java
+END
+RandomUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/RandomUtil.java
+END
+NameableExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/NameableExecutor.java
+END
+SmallSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/SmallSet.java
+END
+CompareUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/CompareUtil.java
+END
+FormatUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/util/FormatUtil.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/parser/util
+END
+ParseUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/parser/util/ParseUtil.java
+END
+ListUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/parser/util/ListUtil.java
+END
+PairUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/parser/util/PairUtil.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/parser/util/Pair.java
+END
+ArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/parser/util/ArrayUtil.java
+END
+ParseString.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/parser/util/ParseString.java
+END
+CharTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/parser/util/CharTypes.java
+END

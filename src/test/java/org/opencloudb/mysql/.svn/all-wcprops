@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/mysql
+END
+MySQLMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/mysql/MySQLMessageTest.java
+END
+ResultSetPacketParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/test/java/org/opencloudb/mysql/ResultSetPacketParse.java
+END

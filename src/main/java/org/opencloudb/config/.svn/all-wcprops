@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/openclouddb/!svn/ver/108/trunk/src/main/java/org/opencloudb/config
+END
+ErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/ErrorCode.java
+END
+Isolations.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/Isolations.java
+END
+Fields.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/Fields.java
+END
+Versions.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/Versions.java
+END
+Capabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/Capabilities.java
+END
+Alarms.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/org/opencloudb/config/Alarms.java
+END

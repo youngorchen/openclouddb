@@ -1,0 +1,1295 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/Token.java
+END
+CreateTableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CreateTableNode.java
+END
+ExistenceCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ExistenceCheck.java
+END
+DeallocateStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DeallocateStatementNode.java
+END
+RowResultSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/RowResultSetNode.java
+END
+SetTransactionAccessNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SetTransactionAccessNode.java
+END
+DeclareStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DeclareStatementNode.java
+END
+DefaultNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DefaultNode.java
+END
+QueryTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/QueryTreeNode.java
+END
+AggregateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AggregateNode.java
+END
+PrivilegeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/PrivilegeNode.java
+END
+ExtractOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ExtractOperatorNode.java
+END
+WindowReferenceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/WindowReferenceNode.java
+END
+CreateIndexNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CreateIndexNode.java
+END
+XMLUnaryOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/XMLUnaryOperatorNode.java
+END
+BinaryLogicalOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BinaryLogicalOperatorNode.java
+END
+UntypedNullConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UntypedNullConstantNode.java
+END
+FromSubquery.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/FromSubquery.java
+END
+ConstraintDefinitionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ConstraintDefinitionNode.java
+END
+AlterServerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AlterServerNode.java
+END
+TernaryOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TernaryOperatorNode.java
+END
+ConcatenationOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ConcatenationOperatorNode.java
+END
+ASTVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ASTVisitor.java
+END
+UCode_CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UCode_CharStream.java
+END
+NodeNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/NodeNames.java
+END
+BaseToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BaseToken.java
+END
+RowsResultSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/RowsResultSetNode.java
+END
+SavepointNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SavepointNode.java
+END
+AlterAddIndexNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AlterAddIndexNode.java
+END
+BinaryArithmeticOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BinaryArithmeticOperatorNode.java
+END
+StringCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/StringCharStream.java
+END
+TriggerReferencingStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TriggerReferencingStruct.java
+END
+UnaryOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UnaryOperatorNode.java
+END
+SubqueryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SubqueryNode.java
+END
+RowCountNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/RowCountNode.java
+END
+FromVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/FromVTI.java
+END
+DistinctNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DistinctNode.java
+END
+CreateRoleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CreateRoleNode.java
+END
+SimpleCaseNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SimpleCaseNode.java
+END
+ResultColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ResultColumn.java
+END
+TableElementList.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TableElementList.java
+END
+PartitionByList.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/PartitionByList.java
+END
+BinaryComparisonOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BinaryComparisonOperatorNode.java
+END
+SQLGrammarTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SQLGrammarTokenManager.java
+END
+GroupByColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/GroupByColumn.java
+END
+CurrentRowLocationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CurrentRowLocationNode.java
+END
+TableOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TableOperatorNode.java
+END
+ModifyColumnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ModifyColumnNode.java
+END
+ColumnDefinitionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ColumnDefinitionNode.java
+END
+SetOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SetOperatorNode.java
+END
+HalfOuterJoinNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/HalfOuterJoinNode.java
+END
+ValueNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ValueNode.java
+END
+SetRoleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SetRoleNode.java
+END
+CreateAliasNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CreateAliasNode.java
+END
+InListOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/InListOperatorNode.java
+END
+TimestampOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TimestampOperatorNode.java
+END
+WindowDefinitionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/WindowDefinitionNode.java
+END
+TablePrivilegesNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TablePrivilegesNode.java
+END
+TrimOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TrimOperatorNode.java
+END
+UserTypeConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UserTypeConstantNode.java
+END
+HasNodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/HasNodeVisitor.java
+END
+CopyStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CopyStatementNode.java
+END
+LockTableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/LockTableNode.java
+END
+BinaryOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BinaryOperatorNode.java
+END
+AndNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AndNode.java
+END
+FromTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/FromTable.java
+END
+AlterTableRenameNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AlterTableRenameNode.java
+END
+NextSequenceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/NextSequenceNode.java
+END
+CurrentSequenceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CurrentSequenceNode.java
+END
+GrantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/GrantNode.java
+END
+IsNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/IsNode.java
+END
+NumericConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/NumericConstantNode.java
+END
+SelectNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SelectNode.java
+END
+XMLBinaryOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/XMLBinaryOperatorNode.java
+END
+TableName.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TableName.java
+END
+ResultColumnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ResultColumnList.java
+END
+SetTransactionIsolationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SetTransactionIsolationNode.java
+END
+UnaryArithmeticOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UnaryArithmeticOperatorNode.java
+END
+ExplainStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ExplainStatementNode.java
+END
+ExplicitCollateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ExplicitCollateNode.java
+END
+SQLParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SQLParserException.java
+END
+SpecialFunctionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SpecialFunctionNode.java
+END
+RowNumberFunctionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/RowNumberFunctionNode.java
+END
+ExecuteStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ExecuteStatementNode.java
+END
+CharConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CharConstantNode.java
+END
+BaseColumnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BaseColumnNode.java
+END
+DropTriggerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DropTriggerNode.java
+END
+ConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ConstantNode.java
+END
+CastNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CastNode.java
+END
+IndexHintNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/IndexHintNode.java
+END
+CreateSequenceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CreateSequenceNode.java
+END
+OrderedColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/OrderedColumn.java
+END
+SQLGrammarConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SQLGrammarConstants.java
+END
+DropSequenceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DropSequenceNode.java
+END
+WindowList.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/WindowList.java
+END
+CreateViewNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CreateViewNode.java
+END
+RoutineDesignator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/RoutineDesignator.java
+END
+BinaryBitOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BinaryBitOperatorNode.java
+END
+NonStaticMethodCallNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/NonStaticMethodCallNode.java
+END
+CallStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CallStatementNode.java
+END
+FromBaseTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/FromBaseTable.java
+END
+StatementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/StatementType.java
+END
+DeleteNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DeleteNode.java
+END
+UnaryComparisonOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UnaryComparisonOperatorNode.java
+END
+ColumnReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ColumnReference.java
+END
+CurrentOfNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CurrentOfNode.java
+END
+ValueNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ValueNodeList.java
+END
+IndexDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/IndexDefinition.java
+END
+CurrentDatetimeOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CurrentDatetimeOperatorNode.java
+END
+BinaryRelationalOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BinaryRelationalOperatorNode.java
+END
+Visitable.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/Visitable.java
+END
+CursorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CursorNode.java
+END
+RowConstructorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/RowConstructorNode.java
+END
+JavaValueNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/JavaValueNode.java
+END
+PrepareStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/PrepareStatementNode.java
+END
+AlterTableRenameColumnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AlterTableRenameColumnNode.java
+END
+DropSchemaNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DropSchemaNode.java
+END
+TransactionControlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TransactionControlNode.java
+END
+CreateTriggerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CreateTriggerNode.java
+END
+DDLStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DDLStatementNode.java
+END
+BooleanConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BooleanConstantNode.java
+END
+NodeFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/NodeFactoryImpl.java
+END
+CloseStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CloseStatementNode.java
+END
+RevokeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/RevokeNode.java
+END
+OrderByList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/OrderByList.java
+END
+BinaryListOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BinaryListOperatorNode.java
+END
+SingleChildResultSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SingleChildResultSetNode.java
+END
+NotNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/NotNode.java
+END
+JavaToSQLValueNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/JavaToSQLValueNode.java
+END
+FullOuterJoinNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/FullOuterJoinNode.java
+END
+NodeTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/NodeTypes.java
+END
+VirtualColumnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/VirtualColumnNode.java
+END
+StatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/StatementNode.java
+END
+UnaryLogicalOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UnaryLogicalOperatorNode.java
+END
+SubqueryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SubqueryList.java
+END
+NodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/NodeFactory.java
+END
+IntersectOrExceptNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/IntersectOrExceptNode.java
+END
+IndexColumnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/IndexColumnList.java
+END
+DropTableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DropTableNode.java
+END
+FetchStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/FetchStatementNode.java
+END
+DropGroupNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DropGroupNode.java
+END
+UpdateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UpdateNode.java
+END
+CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CharStream.java
+END
+NewInvocationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/NewInvocationNode.java
+END
+AlterDropIndexNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AlterDropIndexNode.java
+END
+CoalesceFunctionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CoalesceFunctionNode.java
+END
+DropRoleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DropRoleNode.java
+END
+MiscellaneousStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/MiscellaneousStatementNode.java
+END
+OrderedColumnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/OrderedColumnList.java
+END
+UnionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UnionNode.java
+END
+BitConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BitConstantNode.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TokenMgrError.java
+END
+OctetLengthOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/OctetLengthOperatorNode.java
+END
+DropIndexNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DropIndexNode.java
+END
+GrantRoleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/GrantRoleNode.java
+END
+SQLToJavaValueNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SQLToJavaValueNode.java
+END
+VarbitConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/VarbitConstantNode.java
+END
+TableElementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TableElementNode.java
+END
+DMLModStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DMLModStatementNode.java
+END
+RenameNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/RenameNode.java
+END
+TransactionStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TransactionStatementNode.java
+END
+XMLConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/XMLConstantNode.java
+END
+SQLParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SQLParserContext.java
+END
+GroupByList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/GroupByList.java
+END
+FKConstraintDefinitionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/FKConstraintDefinitionNode.java
+END
+OrderByColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/OrderByColumn.java
+END
+AllResultColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AllResultColumn.java
+END
+OrNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/OrNode.java
+END
+QueryTreeNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/QueryTreeNodeList.java
+END
+NOPStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/NOPStatementNode.java
+END
+LikeEscapeOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/LikeEscapeOperatorNode.java
+END
+SQLParserFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SQLParserFeature.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ParseException.java
+END
+SetConfigurationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SetConfigurationNode.java
+END
+CreateSchemaNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/CreateSchemaNode.java
+END
+GroupConcatNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/GroupConcatNode.java
+END
+TestConstraintNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/TestConstraintNode.java
+END
+IndexConstraintDefinitionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/IndexConstraintDefinitionNode.java
+END
+StorageLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/StorageLocation.java
+END
+ResultSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ResultSetNode.java
+END
+GetCurrentConnectionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/GetCurrentConnectionNode.java
+END
+InsertNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/InsertNode.java
+END
+BetweenOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/BetweenOperatorNode.java
+END
+SQLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SQLParser.java
+END
+IsNullNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/IsNullNode.java
+END
+SetSchemaNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SetSchemaNode.java
+END
+MethodCallNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/MethodCallNode.java
+END
+PartitionByColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/PartitionByColumn.java
+END
+RevokeRoleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/RevokeRoleNode.java
+END
+WindowFunctionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/WindowFunctionNode.java
+END
+DropAliasNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DropAliasNode.java
+END
+AlterTableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AlterTableNode.java
+END
+IndexColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/IndexColumn.java
+END
+ParameterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ParameterNode.java
+END
+IndexHintList.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/IndexHintList.java
+END
+LeftRightFuncOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/LeftRightFuncOperatorNode.java
+END
+IsolationLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/IsolationLevel.java
+END
+AggregateWindowFunctionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AggregateWindowFunctionNode.java
+END
+StaticMethodCallNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/StaticMethodCallNode.java
+END
+GenerationClauseNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/GenerationClauseNode.java
+END
+FromList.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/FromList.java
+END
+Visitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/Visitor.java
+END
+SimpleStringOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SimpleStringOperatorNode.java
+END
+UnaryDateTimestampOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UnaryDateTimestampOperatorNode.java
+END
+LengthOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/LengthOperatorNode.java
+END
+JoinNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/JoinNode.java
+END
+DropViewNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DropViewNode.java
+END
+StaticClassFieldReferenceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/StaticClassFieldReferenceNode.java
+END
+AccessMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/AccessMode.java
+END
+SQLGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SQLGrammar.java
+END
+DMLStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/DMLStatementNode.java
+END
+ConditionalNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/ConditionalNode.java
+END
+WindowNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/WindowNode.java
+END
+SQLBooleanConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/SQLBooleanConstantNode.java
+END
+UnaryBitOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openclouddb/!svn/ver/2/trunk/src/main/java/com/akiban/sql/parser/UnaryBitOperatorNode.java
+END
